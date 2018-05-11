@@ -8,7 +8,7 @@
 # Site settings
 title:       Drinks
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'drinks.haps.pw' # The base hostname & protocol for your site
+url:         'https://drinks.haps.pw/' # The base hostname & protocol for your site
 
 markdown:  kramdown
 permalink: pretty
