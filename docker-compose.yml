@@ -1,0 +1,10 @@
+version: '2'
+services:
+  production:
+    build:
+      context: .
+    restart: always
+    image: $CI_PROJECT_NAME/$CI_COMMIT_REF_NAME:latest
+    container_name: $CI_PROJECT_NAME-$CI_COMMIT_REF_NAME
+    ports:
+        - "127.0.0.1:8017:80"
