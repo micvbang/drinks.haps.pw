@@ -11,11 +11,12 @@ tags: [whiskey, sour, bourbon]
 - 1 part water
 - 2 parts egg white
 - 1-2 parts syrup
-- Ice
+- 6 ice cubes
 - 1 sugared cherry, e.g. maraschino cherry
 
 ## Procedure
-1. Mix all ingredients in cocktail shaker, including a few cubes of ice
+1. Mix all ingredients in cocktail shaker, including 3 ice cubes
 2. Shake well
-3. Pour drink in serving glass and add a few cubes of ice
-4. Add sugared cherry (and some of the syrup it is in)
+3. Pour drink in serving glass and add the rest of the ice cubes
+4. Add sugared cherry (and a bit of the syrup it is in)
+5. Enjoy
