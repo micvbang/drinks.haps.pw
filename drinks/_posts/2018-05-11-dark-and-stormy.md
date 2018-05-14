@@ -19,4 +19,5 @@ tags: [rum, sour, lime, ginger]
 1. Pour rum and ginger beer in serving glass
 2. Squeeze both quarters of the lime fruit in the serving glass. Throw one away and put one in the glass as garnish
 3. Add Angostura to taste
-4. Enjoy
+4. Stir
+5. Enjoy
