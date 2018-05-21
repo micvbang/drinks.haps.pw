@@ -9,7 +9,7 @@ tags: [rum, sour, lime, ginger]
 - 2 parts dark rum
 - 8 parts ginger beer
 - 2 quarters of a lime fruit
-- 1-3 drops of Angostura
+- 1-3 dashes of Angostura
 - 3-5 ice cubes
 
 ## Notes
