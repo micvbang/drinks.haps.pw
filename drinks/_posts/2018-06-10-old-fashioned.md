@@ -13,7 +13,7 @@ tags: [whiskey, angostura, bourbon, simple-syrup]
 - 3-4 ice cubes
 
 ## Notes
-- Uncertain which whiskey is better for this drink
+- Bulleit Bourbon and Buffalo Trace are excellent for this drink
 
 ## Procedure
 1. Mix all ingredients in short and wide glass
