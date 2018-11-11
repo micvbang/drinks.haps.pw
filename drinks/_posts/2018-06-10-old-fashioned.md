@@ -2,12 +2,12 @@
 layout: post
 title:  "Old Fashioned"
 date:   2018-06-10 18:19:42 +0200
-tags: [whiskey, angostura, bourbon, simple-syrup]
+tags: [whiskey, angostura, bourbon, simple syrup]
 ---
 
 ## Ingredients
 - 5 parts bourbon whiskey
-- 1 part simply syrup
+- 1 part simple syrup
 - 2 dashes of Angostura
 - 1 orange peel
 - 3-4 ice cubes
