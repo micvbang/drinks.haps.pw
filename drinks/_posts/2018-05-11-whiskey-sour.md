@@ -7,9 +7,9 @@ tags: [whiskey, sour, bourbon]
 
 ## Ingredients
 - 8 parts bourbon whiskey
-- 3 parts lemon
+- 2 parts lemon
 - 2 parts egg white
-- 1-2 parts syrup
+- 1-2 parts simple syrup
 - 3-5 ice cubes
 - 1 sugared cherry, e.g. maraschino cherry
 
