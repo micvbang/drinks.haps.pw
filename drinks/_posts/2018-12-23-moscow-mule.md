@@ -12,7 +12,6 @@ tags: [vodka, sour, lime, ginger beer]
 - 4 ice cubes
 - mint for garnish
 
-
 ## Procedure
 1. Pour ice cubes, lime juice, and vodka in serving glass
 2. Add ginger beer
